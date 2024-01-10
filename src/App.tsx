@@ -9,7 +9,7 @@ const App: React.FC = () => {
       <TodoContainer />
       <ReactQueryDevtools initialIsOpen={false} />
     </QueryClientProvider>
-  )
+  );
 };
 
 export default App;

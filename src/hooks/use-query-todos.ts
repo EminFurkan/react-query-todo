@@ -6,7 +6,7 @@ import Todo from '@custom-types/todo';
 export function useQueryTodos() {
   return useQuery<Todo[], AxiosError>('todos', fetchTodos, {
     refetchOnMount: true,
-    refetchOnWindowFocus: true
+    refetchOnWindowFocus: true,
   });
 }
 

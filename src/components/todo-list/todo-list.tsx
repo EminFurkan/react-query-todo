@@ -14,8 +14,6 @@ const TodoList: React.FC = () => {
     return <p>Error fetching todos</p>;
   }
 
-  console.log("render todolist");
-
   return (
     <ul>
       {todos &&

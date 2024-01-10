@@ -18,8 +18,6 @@ const TodoForm: React.FC = () => {
     }
   };
 
-  console.log("render todoform");
-
   return (
     <div>
       <input
