@@ -29,7 +29,7 @@ This is a simple React Todo App built using the [React Query](https://react-quer
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-query-todo.git
+   git clone https://github.com/EminFurkan/react-query-todo.git
    ```
 2. **Install dependencies:**
 
